@@ -10,4 +10,5 @@ Power supply
 
 ![alt text](image.png)
 
+Representation in drawing (I'm a developer not an artist)
 Embedded systems class project
