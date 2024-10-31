@@ -2,7 +2,7 @@ Perform hysteresis with an Arduino based on a counter.
 
 Components:
 - Arduino Uno R3
-- Resistance
+- 10Ω Resistance
 - 16x2 display
 - Power supply
 - 5v cooler
